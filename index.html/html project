@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wed Designer Resume</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+    </head>
+
+
+<body>
+    <div id="container">
+        <div id="header">
+            <div id="name">
+                <h1>Jonh Scholet</h1>
+                <h3>Web Designer &amp; Developer</h3>
+             </div><!--name-->
+             <div id="contact">
+                <strong>Email: </strong>Johnletx.com<br />
+                <strong>Phone: </strong> +24568790876
+
+             </div><!--contact-->
+         
+
+        </div><!--header-->
+
+        <div class="clr"></div>
+
+        <div id="profile" class="row">
+            <h2 class="left">Profile</h2>
+            <p>Progressively evolve cross-platform ideas before impactful infomediaries, Energiatically</p>
+        </div><!--Project-->
+
+        <div class="clr"></div>
+
+        <div  id="skills" class="row">
+            <h2 class="left">Skills</h2>
+            <ul>
+                <li>
+                    <h2>Web Design</h2>
+                    <p>I have an eye for design, I can make almost anything come together in terms of color</p>
+                </li>
+
+                <li>
+                    <h2>Web Programming</h2>
+                    <p>I have an extensive experience with HTML5, Javascript, PHP, MYSQL, Rails, Perl and more</p>
+                </li>
+                <li>
+                    <h2>Project Management</h2>
+                    <p>I have Leadership abilities and also have a problem taking direction from others</p>
+                </li>
+            </ul>
+        </div><!--skills-->
+
+        <div class="clr"></div>
+
+        <div id="technical" class="row">
+            <h2 class="left">Technical</h2>
+            <table border="none">
+                <tr><td>XHTML</td><td>CSS</td><td>Javascript</td></tr>
+                <tr><td>JQuery</td><td>PHP</td><td>Rails</td></tr>
+                <tr><td>CVS/Subversion</td><td>Linux</td><td>Windows</td></tr>
+            </table>
+        </div><!--technical-->
+
+        <div class="clr"></div>
+
+        <div id="experience" class="row">
+            <h2 class="left">Experience</h2>
+            <div>
+                <h3>Facebook</h3>
+                <h4>Senior UI Designer</h4>
+                <p>Intrinsically enable optimal core competence through corporate relationships.</p>
+            </div><!--exp-->
+            <div>
+                <h3>Microsoft</h3>
+                <h4>System Tester</h4>
+                <p>Tested operating system core and 3rd party software as well as data and hardware testing</p>
+            </div><!--exp-->
+            <div>
+                <h3>Google</h3>
+                <h4>Algorithm Programmer</h4>
+                <p>I had one of the few top secrets jobs of writing the algorithms for the Google search bar</p>
+            </div><!--exp-->
+        </div><!--experience-->
+        <div class="clr"></div>
+
+        <div id="education" class="row">
+            <h2 class="left">Education</h2>
+            <div>
+                <h3>MIT</h3>
+                <p>Computer Science3 - Information Technology Masters Degree</p>
+            </div>
+        </div><!--education-->
+        </div><!--container-->
+        <div id="footer">
+            Your Demo Resume &copy; 2015 Edonix
+
+
+        </div><!--footer-->
+
+</body>
+</html>
