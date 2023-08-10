@@ -1,0 +1,27 @@
+div{
+    background-color:purple;
+
+}
+
+#quote{
+    font-family: Verdana;
+}
+
+.movie {
+    color: white;
+    background-color: steelblue;
+}
+
+span#author {
+    text-transform: uppercase;
+}
+
+#skills ol li {
+color: purple;
+background: white;
+}
+
+#skills ul li {
+    color: white;
+    background: blue;
+    }
